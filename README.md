@@ -1,1 +1,1 @@
-# stochastic_models_Markov_chains
+# Stochastic process modelling (Markov Chains)
