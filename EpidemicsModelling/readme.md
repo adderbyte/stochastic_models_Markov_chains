@@ -1,3 +1,3 @@
-#######
-Stochastic Model fro epidemics modelling -- MCMC
-#####
+------------
+# Stochastic Model fro epidemics modelling -- MCMC
+---------
